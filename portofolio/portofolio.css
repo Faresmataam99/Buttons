@@ -19,9 +19,23 @@ header {
   padding: 20px;
  align-content: space-between;
  align-items: center;
+
+}
+.cc{
+ padding: 10px;
+ display: flex;
+flex-direction:row ;
+justify-content: space-between;
+align-content: center;
+gap: 40px;
+align-items: center;
+  
 }
 header nav a{
   color: white;
+}
+a{
+  text-decoration: none;
 }
  img {
   border-radius: 50%;
